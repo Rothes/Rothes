@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rothes</h1>
+<h3 align="center">A common student from China</h3>
 
-<!--
-**Rothes/Rothes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on anything about **Spigot**
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **Actually by Tencent QQ 449181985**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I am 3 years old**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothes&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rothes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rothes&show_icons=true&theme=dracula&locale=en" alt="rothes" /></p>
