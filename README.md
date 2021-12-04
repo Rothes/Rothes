@@ -7,8 +7,6 @@
 
 - ⚡ Fun fact: **I am 3 years old**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothes&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rothes" /></p>
