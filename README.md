@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rothes</h1>
 <h3 align="center">A common student from China</h3>
 
-- 🔭 I’m currently working on anything about **Spigot**
+- 🔭 I’m currently working on anything about **Spigot** or **BungeeCord**
 
 - 📫 How to reach me: **Actually by Tencent QQ 449181985**
 
