@@ -8,7 +8,5 @@
 - ⚡ Fun fact: **I am 3 years old**
 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rothes&show_icons=true&theme=dracula&locale=en" alt="rothes" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rothes&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rothes" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rothes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rothes&layout=compact)
