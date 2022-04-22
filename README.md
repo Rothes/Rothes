@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rothes</h1>
-<h3 align="center">A ordinary student from China</h3>
+<h3 align="center">A ordinary high school student from China</h3>
 
 - 🔭 I’m currently working on anything about **Spigot** or **BungeeCord**
 
