@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rothes</h1>
 <h3 align="center">A ordinary college student from China</h3>
 
-- 🔭 I’m currently working on anything about **Spigot** or **BungeeCord**
+- 🔭 I’m currently working on everything about **Spigot** or **BungeeCord**
 
-- 📫 How to reach me: **Actually by Tencent QQ 449181985**
+- 📫 How to reach me: **Discord Rothes丶#2359** or **Tencent QQ 449181985**
 
-- ⚡ Fun fact: **I am 3 years old**
+- ⚡ Fun fact: I am sleeping 24/7 and that's why if I don't reply
 
 &nbsp;
 
