@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on everything about **Spigot** or **BungeeCord**
 
-- 📫 How to reach me: **Discord Rothes丶#2359** or **Tencent QQ 449181985**
+- 📫 How to reach me: **Discord RothesCN** or **Tencent QQ 449181985**
 
 - ⚡ Fun fact: I am sleeping 24/7 and that's why if I don't reply
 
