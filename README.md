@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rothes</h1>
-<h3 align="center">A regular college student from China</h3>
+<h3 align="center">A regular fresh college student from China</h3>
 
-- 🔭 I’m currently working on everything about **Spigot** or **BungeeCord**
+I’m currently working on everything about Minecraft servers. \
+You definitely want to check one of my plugin [ESU](https://github.com/Rothes/ESU).
 
-- 📫 How to reach me: **Discord RothesCN** or **Tencent QQ 449181985**
+Prefered React, Kotlin-related technologies, Coroutines, Exposed, Ktor, etc.
 
-- ⚡ Fun fact: I am sleeping 24/7 and that's why if I don't reply
+📫 How to reach me: **Discord RothesCN** or **Tencent QQ 449181985**
 
 &nbsp;
 
